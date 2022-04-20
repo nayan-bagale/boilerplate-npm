@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nayan Bagale",
+	"description": "A project that does something awesome",
+	"version": "1.2.0",
+	"license": "MIT",
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
